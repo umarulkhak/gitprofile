@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Issued by Politeknik Negeri Semarang (February 2021)',
           imageUrl:
-            'https://drive.google.com/file/d/1UL73uDeqZ7vFcKTATamLdSkc21h1TyUZ/view?usp=sharing',
+            'https://img.freepik.com/free-vector/trophy-award-laurel-wreath-composition-with-realistic-image-golden-cup-decorated-with-garland-with-reflection_1284-32301.jpg?t=st=1723149808~exp=1723153408~hmac=6a7f23d5dbb671a4680661d106e3bdd463ed918c579440cae97749e46af3fd48&w=740',
           link: '',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Issued by Universitas Buana Perjuangan Karawang (February 2021)',
           imageUrl:
-            'https://drive.google.com/file/d/1mEcrM0IH3lhAqtVxIMKYvoM0SxIhzJPr/view?usp=sharing',
+            'https://img.freepik.com/free-vector/trophy-award-laurel-wreath-composition-with-realistic-image-golden-cup-decorated-with-garland-with-reflection_1284-32301.jpg?t=st=1723149808~exp=1723153408~hmac=6a7f23d5dbb671a4680661d106e3bdd463ed918c579440cae97749e46af3fd48&w=740',
           link: '',
         },
       ],
