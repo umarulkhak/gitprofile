@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['umarulkhak/si_sdm', 'umarulkhak/edomphb-lstm'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['umarulkhak/si-sdm', 'umarulkhak/edomphb-lstm'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -127,9 +127,23 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
+  achievement: [
+    {
+      name: '🏆 Finalis TECHCOMFES SOFTWARE DEVELOPMENT COMPETITION',
+      body: 'Issued by Politeknik Negeri Semarang',
+      year: 'February 2021',
+      link: '',
+    },
+    {
+      name: '🏆 2nd Place Winner of the Apps Competition at UBP TECHNO DAY 5.0.',
+      body: 'Issued by Universitas Buana Perjuangan Karawang',
+      year: 'February 2021',
+      link: '',
+    },
+  ],
   educations: [
     {
-      institution: 'Harapan Bersama Polytechnic',
+      institution: 'Politeknik Harapan Bersama',
       degree: 'Degree',
       from: '2017',
       to: '2022',
