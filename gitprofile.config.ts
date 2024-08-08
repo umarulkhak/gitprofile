@@ -121,10 +121,34 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Golang for Back End Developer',
+      body: 'Hacktiv8 Indonesia',
+      year: 'July 2024',
+      link: '',
+    },
+    {
+      name: 'UI/UX Aplikasi Mobile',
+      body: 'GeTI Incubator',
+      year: 'May 2024',
+      link: '',
+    },
+    {
+      name: 'Database Design and Programming with SQL',
+      body: 'Oracle',
+      year: 'February 2019',
+      link: '',
+    },
+    {
+      name: 'Linux Essentials',
+      body: 'Linux Professional Institute (LPI)',
+      year: 'June 2018',
+      link: '',
+    },
+    {
+      name: 'IT Essentials',
+      body: 'Cisco Networking Academy',
+      year: 'February 2018',
+      link: '',
     },
   ],
   achievement: [
