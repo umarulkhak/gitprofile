@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Issued by Politeknik Negeri Semarang (February 2021)',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://drive.google.com/file/d/1UL73uDeqZ7vFcKTATamLdSkc21h1TyUZ/view?usp=sharing',
           link: '',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Issued by Universitas Buana Perjuangan Karawang (February 2021)',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://drive.google.com/file/d/1mEcrM0IH3lhAqtVxIMKYvoM0SxIhzJPr/view?usp=sharing',
           link: '',
         },
       ],
