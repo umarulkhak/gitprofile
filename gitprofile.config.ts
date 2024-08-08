@@ -129,16 +129,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
+      institution: 'Harapan Bersama Polytechnic',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      from: '2017',
+      to: '2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'SMA N 01 Larangan',
+      degree: 'Senior High School',
+      from: '2014',
+      to: '2017',
     },
   ],
   publications: [
@@ -176,7 +176,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'light',
+    defaultTheme: 'winter',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
