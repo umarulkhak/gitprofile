@@ -29,24 +29,24 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Achievement',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: '🏆 Finalis TECHCOMFES SOFTWARE DEVELOPMENT COMPETITION.',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Issued by Politeknik Negeri Semarang (February 2021)',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: '',
         },
         {
-          title: 'Project Name',
+          title: '🏆 2nd Place Winner of the Apps Competition at UBP TECHNO DAY 5.0.',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Issued by Universitas Buana Perjuangan Karawang (February 2021)',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: '',
         },
       ],
     },
@@ -148,20 +148,6 @@ const CONFIG = {
       name: 'IT Essentials',
       body: 'Cisco Networking Academy',
       year: 'February 2018',
-      link: '',
-    },
-  ],
-  achievement: [
-    {
-      name: '🏆 Finalis TECHCOMFES SOFTWARE DEVELOPMENT COMPETITION',
-      body: 'Issued by Politeknik Negeri Semarang',
-      year: 'February 2021',
-      link: '',
-    },
-    {
-      name: '🏆 2nd Place Winner of the Apps Competition at UBP TECHNO DAY 5.0.',
-      body: 'Issued by Universitas Buana Perjuangan Karawang',
-      year: 'February 2021',
       link: '',
     },
   ],
