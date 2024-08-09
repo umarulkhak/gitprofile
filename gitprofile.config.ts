@@ -68,7 +68,7 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'ulkhak24',
+    medium: 'alkhak24',
     dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
@@ -179,7 +179,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: 'ulkhak24', // to hide blog section, keep it empty
+    username: 'alkhak24', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
