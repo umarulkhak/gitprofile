@@ -173,7 +173,7 @@ const CONFIG = {
       authors: 'Umar Ulkhak, S.Tr.Kom., Slamet Wiyono, S.Pd., M.Eng., Hepatika Zidny I, S.Pd., M.Kom.',
       link: 'https://pdki-indonesia.dgip.go.id/detail/b31b478c95734e024aa02e3bfed4ff6d63b962db570f61bcb690fb458f9d4c42?nomor=EC00202240328&type=copyright&keyword=EC00202240328',
       description:
-        'The EDOM Analysis Application at Politeknik Harapan Bersama is a web-based tool designed to facilitate student evaluations of lecturers through comments, while also conducting sentiment analysis on the feedback provided. This application streamlines the process by automatically categorizing student comments into four distinct classifications: Poor, Fair, Good, and Excellent. By leveraging sentiment analysis, the system ensures that evaluations are both accurate and consistent, providing valuable insights into lecturer performance from the students' perspectives.',
+        'The EDOM Analysis Application at Politeknik Harapan Bersama is a web-based tool designed to facilitate student evaluations of lecturers through comments, while also conducting sentiment analysis on the feedback provided. This application streamlines the process by automatically categorizing student comments into four distinct classifications: Poor, Fair, Good, and Excellent. By leveraging sentiment analysis, the system ensures that evaluations are both accurate and consistent, providing valuable insights into lecturer performance from the students perspectives.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
