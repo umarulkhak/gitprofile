@@ -167,13 +167,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Pangkalan Data Kekayaan Intelektual',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'Aplikasi Klasifikasi Sentimen Terhadap Evaluasi Dosen oleh Mahasiswa (EDOM) dengan Metode Long Short-Term Memory (LSTM)',
+      authors: 'Umar Ulkhak, S.Tr.Kom., Slamet Wiyono, S.Pd., M.Eng., Hepatika Zidny I, S.Pd., M.Kom.',
+      link: 'https://pdki-indonesia.dgip.go.id/detail/b31b478c95734e024aa02e3bfed4ff6d63b962db570f61bcb690fb458f9d4c42?nomor=EC00202240328&type=copyright&keyword=EC00202240328',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'The EDOM Analysis Application at Politeknik Harapan Bersama is a web-based tool designed to facilitate student evaluations of lecturers through comments, while also conducting sentiment analysis on the feedback provided. This application streamlines the process by automatically categorizing student comments into four distinct classifications: Poor, Fair, Good, and Excellent. By leveraging sentiment analysis, the system ensures that evaluations are both accurate and consistent, providing valuable insights into lecturer performance from the students' perspectives.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
