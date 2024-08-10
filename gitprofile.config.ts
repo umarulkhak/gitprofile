@@ -175,6 +175,15 @@ const CONFIG = {
       description:
         'The EDOM Analysis Application at Politeknik Harapan Bersama is a web-based tool that allows students to evaluate lecturers through comments and automatically categorizes feedback into four levels: Poor, Fair, Good, and Excellent using sentiment analysis. This system ensures accurate and consistent lecturer evaluations.',
     },
+    {
+      title: 'Outlier Detection Using Python: A Comprehensive Guide',
+      conferenceName: '',
+      journalName: '',
+      authors: 'U. Ulkhak',
+      link: 'https://www.kaggle.com/code/ulkhak24/detecting-outlier-using-python',
+      description:
+        'This guide provides a comprehensive overview of outlier detection using Python. It covers key techniques, libraries, and practical examples to help identify and manage outliers in datasets, ensuring more accurate data analysis and predictive modeling.',
+    },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
