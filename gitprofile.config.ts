@@ -182,7 +182,7 @@ const CONFIG = {
       authors: 'U. Ulkhak',
       link: 'https://www.kaggle.com/code/ulkhak24/detecting-outlier-using-python',
       description:
-        'This guide provides a comprehensive overview of outlier detection using Python. It covers key techniques, libraries, and practical examples to help identify and manage outliers in datasets, ensuring more accurate data analysis and predictive modeling.',
+        'This guide provides an in-depth exploration of outlier detection using Python, featuring key techniques, libraries like NumPy, Pandas, and Scikit-learn, along with practical examples. It includes step-by-step instructions for identifying and managing outliers, ensuring more accurate data analysis, enhanced data quality, and improved predictive modeling outcomes.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
