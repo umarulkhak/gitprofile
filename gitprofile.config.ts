@@ -171,7 +171,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Aplikasi Klasifikasi Sentimen Terhadap Evaluasi Dosen oleh Mahasiswa (EDOM) dengan Metode Long Short-Term Memory (LSTM)',
       authors: 'U. Ulkhak, S. Wiyono, and H. Zidny I',
-      link: 'https://pdki-indonesia.dgip.go.id/detail/1ad79bb2bc75e51d689dd576f88b339c857275886b26de6414684a686dc17ed1?type=copyright&keyword=EC00202240328&nomor=EC00202240328',
+      link: '',
       description:
         'The EDOM Analysis Application at Politeknik Harapan Bersama is a web-based tool that allows students to evaluate lecturers through comments and automatically categorizes feedback into four levels: Poor, Fair, Good, and Excellent using sentiment analysis. This system ensures accurate and consistent lecturer evaluations.',
     },
@@ -180,7 +180,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: '',
       authors: 'U. Ulkhak',
-      link: 'https://www.kaggle.com/code/ulkhak24/detecting-outlier-using-python',
+      link: '',
       description:
         'This guide provides an in-depth exploration of outlier detection using Python, featuring key techniques, libraries like NumPy, Pandas, and Scikit-learn, along with practical examples. It includes step-by-step instructions for identifying and managing outliers, ensuring more accurate data analysis, enhanced data quality, and improved predictive modeling outcomes.',
     },
