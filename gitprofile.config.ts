@@ -98,10 +98,17 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'PT Tah Sung Hung',
+      position: 'IT Staff',
+      from: 'December 2024',
+      to: 'Present',
+      companyLink: 'https://www.seger.co.id/id/',
+    },    
+    {
       company: 'PT. Seger Agro Nusantara',
       position: 'Software Engineer',
       from: 'February 2023',
-      to: 'December 2023',
+      to: 'February 2024',
       companyLink: 'https://www.seger.co.id/id/',
     },
     {
